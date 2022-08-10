@@ -1,7 +1,7 @@
 - 👋 Oi Eu sou jeam.castagnaro@escola.pr.gov.br.
 - 👀 Estou interesado em aprender jogos olline e ganhar conhecimento.
 - 🌱 Estou estudando java scrift, HTML e CSS.
-- 💞️ No meu tempo livre eu jogo bola e escutar música
+- 💞️ No meu tempo livre eu jogo bola e escuto música
 - 📫 Voce pode me encontrar no jeam.castagnaro@escola.pr.gov.br
 -
 <!---
